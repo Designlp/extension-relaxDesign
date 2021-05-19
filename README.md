@@ -1,6 +1,6 @@
 RELAX DESIGN Theme
 
-![Image of the Relax Design theme](http://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
+![Image of the Relax Design theme](https://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
 
 El tema de color de las luces de la ciudad es un hermoso tema de sintaxis oscura diseñado con el enfoque en mente. Relax Design Theme tiene muchas ayudas visuales personalizadas para ayudarte a codificar más rápido y con mayor precisión. Actualmente se admiten más de ocho de los lenguajes de codificación más populares.
 
