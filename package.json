@@ -1,0 +1,31 @@
+{
+    "name": "relax-design",
+    "displayName": "relax-design",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Relax Design",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Relax Design-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon/icon.png",
+    "author": {
+      "name": "Diego Mercado",
+      "email": "dmercadoff@gmail.com"
+    },
+    "repository": {
+      "url": "https://github.com/Designlp/extension-relax-design-vsc.git",
+      "type": "git"
+    },
+    "publisher": "codigo-design"
+}
